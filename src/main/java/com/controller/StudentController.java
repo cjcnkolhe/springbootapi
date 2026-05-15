@@ -15,7 +15,7 @@ public class StudentController {
 	    }
 	 
 	 @GetMapping("/hi")
-	    public String hello() {
+	    public String m() {
 	        return "Spring Boot API Running Successfully-lang";
 	    }
 	 
